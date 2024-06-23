@@ -12,7 +12,8 @@
 	<artifactId>testRaj</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 	<name>testRaj</name>
-	<description>Demo project for Spring Boot</description>
+	<packaging>war</packaging>
+	<description>Demo project for Spring Boot testing</description>
 	<url/>
 	<licenses>
 		<license/>
